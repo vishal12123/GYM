@@ -17,7 +17,7 @@ const Footer = () => {
         </div>
         <div>
           <h1 className=" font-medium text-xl mt-4">Address</h1>
-          <p className=" mt-4">89925 Aubree Square Mumbai 12721</p>
+          <p className=" mt-4">8992578 Lucknow</p>
         </div>
         <div>
           <h1 className=" font-medium text-xl mt-4">Contact</h1>
